@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.todo-input{
+    width: 20rem;
+    height: 70px;
+    box-shadow: 4px 8px 8px rgba(0, 0, 0, .1);
+    border-color: gray;
+    border: solid;
+    border-width: 1px;
+    border-radius: .4rem;
+}
+
